@@ -1,0 +1,72 @@
+.nav-item{
+  margin: 18px;
+
+}
+.nav-link{font-weight: bold;
+      color: black;
+    font-size: 1rem;}
+.navbar-brand{
+  font-size: 36px;
+  font-weight: bolder;
+}
+
+
+/*Slide section*/
+.carousel-inner{
+  text-align: center;
+}
+.carousel-caption{
+  margin: 15% auto;
+  font-weight: bolder;
+  font-size: 20%;
+}
+.bk-img{
+   filter: blur(4px);
+}
+.bk-button{
+  background-color: #790c5a;
+  color: #fff;
+  margin: 2% auto;
+}
+.sl-title{
+  margin: 3% auto;
+  font-size: 64px;
+}
+/*Service section*/
+.sev-top,.clint-test{
+  margin: 3%;
+  text-align: left;
+  color:  #790c5a;
+}
+.ourservice{background-color:#f6f6f6;
+padding:10%;
+color:  #222831;
+text-align: center;
+  line-height:1.3;}
+.sev-head{
+  padding: 5%;
+
+}
+#testimonials{
+  background-color:#790c5a;
+  margin:5%;
+  padding:10%;
+color:  #fff;
+}
+.testimonial-image{
+  border-radius: 100%;
+}
+.text{
+  text-align: left;
+  line-height: 1.7;
+  word-spacing: 5px;
+
+}
+.testimonial2-image{
+  height: 60%;
+  width: 60%;
+    border-radius: 100%;
+}
+.testimonial-text{
+  padding-bottom: 5%;
+}
